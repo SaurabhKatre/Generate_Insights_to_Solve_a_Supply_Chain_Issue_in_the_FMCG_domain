@@ -1,29 +1,108 @@
-Generate Insights to Solve a Supply Chain Issue in the FMCG domain  
+📦 Supply Chain Performance Dashboard – FMCG Domain
 
-Business Context
+🏢 Business Context
 
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. Currently, it operates in Surat, Ahmedabad, and Vadodara, and plans to expand to Tier-1 cities within 2 years.
-Problem: Some key customers did not renew contracts due to late or incomplete deliveries.
-Objective: Build a dashboard to track On-Time (OT %), In-Full (IF %), and On-Time In-Full (OTIF %) daily against customer targets.
-________________________________________
-My Role
+**AtliQ Mart** is a fast-growing FMCG manufacturer headquartered in Gujarat, India, currently operating in:
 
-As Peter Pandey (Data Analyst), I designed the dashboard to:
-•	Measure OT %, IF %, and OTIF %
-•	Compare results against targets
-•	Provide insights on customer & store-level performance
-•	Recommend improvements for expansion readiness
-________________________________________
-Tools & Skills
+* Surat
+* Ahmedabad
+* Vadodara
 
-•	SQL – Data extraction & transformation
-•	Excel – Data cleaning & preparation
-•	Power BI – Dashboard creation
-•	Analytics – Service-level KPIs (LIFR, VOFR, OTIF)
-________________________________________
-Key Insights
+The company plans to expand into Tier-1 cities within the next 2 years.
 
-•	Top performers: Propel Mart, Rel Fresh, Expression Stores
-•	Low performers: Coolblue, Elite Mart, Lotus Mart (low LIFR & high delays)
-•	Best vs Worst store → 25% service gap
-•	Recommendation: Improve logistics in underperforming stores before expansion
+🚨 Problem Statement
+
+Some key customers did not renew contracts due to:
+
+* Late deliveries
+* Incomplete order fulfillment
+
+🎯 Objective
+
+Develop a dashboard to track service-level KPIs on a **daily basis**:
+
+* **On-Time Delivery (OT %)**
+* **In-Full Delivery (IF %)**
+* **On-Time In-Full (OTIF %)**
+
+The goal is to compare actual performance against customer targets and identify improvement areas.
+
+
+👨‍💻 My Role
+
+As a **Data Analyst (Peter Pandey)**, I:
+
+* Designed and built an interactive dashboard
+* Tracked OT %, IF %, and OTIF %
+* Compared actual vs target performance
+* Delivered customer-level and store-level insights
+* Provided actionable recommendations for business expansion
+
+
+🛠️ Tools & Skills Used
+
+* **SQL** → Data extraction & transformation
+* **Excel** → Data cleaning & preprocessing
+* **Power BI** → Dashboard design & visualization
+
+### 📊 Key Metrics
+
+* **OT % (On-Time Delivery)**
+* **IF % (In-Full Delivery)**
+* **OTIF % (On-Time In-Full)**
+* **LIFR (Line Item Fill Rate)**
+* **VOFR (Volume Fill Rate)**
+
+
+📈 Dashboard Features
+
+* Daily tracking of OT, IF, and OTIF performance
+* Target vs Actual comparison
+* Customer-wise performance analysis
+* Store-level service insights
+* Identification of delays and fulfillment gaps
+
+ 🔍 Key Insights
+
+**Top Performing Customers**
+
+  * Propel Mart
+  * Rel Fresh
+  * Expression Stores
+
+**Low Performing Customers**
+
+  * Coolblue
+  * Elite Mart
+  * Lotus Mart
+    *(Issues: Low LIFR and high delivery delays)*
+
+📉 **Performance Gap**
+
+  * ~25% gap between best and worst performing stores
+
+
+💡 Recommendations
+
+* Improve logistics and delivery planning in underperforming stores
+* Optimize inventory allocation to boost fill rates
+* Strengthen supply chain coordination before expansion
+* Focus on improving OTIF % to retain key customers
+
+---
+
+🚀 Business Impact
+
+* Helps identify service-level gaps
+* Supports data-driven decision-making
+* Improves customer satisfaction and retention
+* Prepares the company for successful expansion into Tier-1 cities
+
+
+ 📌 Conclusion
+
+This dashboard enables **real-time monitoring of supply chain efficiency**, helping AtliQ Mart improve delivery performance and build a strong foundation for future growth.
+
+
+
+
