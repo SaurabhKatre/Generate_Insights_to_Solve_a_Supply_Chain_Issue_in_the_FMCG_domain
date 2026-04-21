@@ -1,10 +1,13 @@
-Generate Insights to Solve a Supply Chain Issue in the FMCG domain
+Generate Insights to Solve a Supply Chain Issue in the FMCG domain  
+
 Business Context
+
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. Currently, it operates in Surat, Ahmedabad, and Vadodara, and plans to expand to Tier-1 cities within 2 years.
 Problem: Some key customers did not renew contracts due to late or incomplete deliveries.
 Objective: Build a dashboard to track On-Time (OT %), In-Full (IF %), and On-Time In-Full (OTIF %) daily against customer targets.
 ________________________________________
 My Role
+
 As Peter Pandey (Data Analyst), I designed the dashboard to:
 •	Measure OT %, IF %, and OTIF %
 •	Compare results against targets
@@ -12,12 +15,14 @@ As Peter Pandey (Data Analyst), I designed the dashboard to:
 •	Recommend improvements for expansion readiness
 ________________________________________
 Tools & Skills
+
 •	SQL – Data extraction & transformation
 •	Excel – Data cleaning & preparation
 •	Power BI – Dashboard creation
 •	Analytics – Service-level KPIs (LIFR, VOFR, OTIF)
 ________________________________________
 Key Insights
+
 •	Top performers: Propel Mart, Rel Fresh, Expression Stores
 •	Low performers: Coolblue, Elite Mart, Lotus Mart (low LIFR & high delays)
 •	Best vs Worst store → 25% service gap
