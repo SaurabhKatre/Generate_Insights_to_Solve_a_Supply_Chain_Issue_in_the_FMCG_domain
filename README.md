@@ -105,8 +105,14 @@ This dashboard enables **real-time monitoring of supply chain efficiency**, help
 
 <img width="925" height="457" alt="Overview" src="https://github.com/user-attachments/assets/aa161be2-ed22-46d0-a469-3288ca2a5855" />
 
+
+
 <img width="908" height="434" alt="Kpi Based Analysis" src="https://github.com/user-attachments/assets/9d379886-f8e1-4a7c-b0e0-494cefebcf2a" />
 
+
+
 <img width="920" height="464" alt="Product Based " src="https://github.com/user-attachments/assets/761961e2-2833-4f73-8f23-0c30b3918e12" />
+
+
 
 <img width="928" height="450" alt="Customer Analysis" src="https://github.com/user-attachments/assets/47cbf370-7cb9-442e-abe4-9874a6f5375e" />
