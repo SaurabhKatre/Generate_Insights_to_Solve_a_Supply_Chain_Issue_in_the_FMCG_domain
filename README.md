@@ -103,6 +103,7 @@ As a **Data Analyst (Peter Pandey)**, I:
 
 This dashboard enables **real-time monitoring of supply chain efficiency**, helping AtliQ Mart improve delivery performance and build a strong foundation for future growth.
 
+<img width="925" height="457" alt="Overview" src="https://github.com/user-attachments/assets/aa161be2-ed22-46d0-a469-3288ca2a5855" />
 
 
 
